@@ -1,0 +1,160 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="Console.Jpa.GenerateSql" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="Diff.AppendLeftSide">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="Diff.AppendRightSide">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="Diff.ApplyLeftSide">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="Diff.ApplyRightSide">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="Diff.IgnoreLeftSide">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+  </action>
+  <action id="Diff.IgnoreRightSide">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+  </action>
+  <action id="Diff.NextConflict">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Diff.PreviousConflict">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
+  <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="GotoUrlAction" />
+  <action id="HippieBackwardCompletion" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="List-selectFirstRowExtendSelection" />
+  <action id="List-selectLastRowExtendSelection" />
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
+  <action id="NavBar-selectHome">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Play2.TypeInfo">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="Scala.RunConsole" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="Scala.TypeInfo">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ShowProjectStructureSettings" />
+  <action id="ShowRecentTests" />
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
+  <action id="Switcher" />
+  <action id="Terminal.SmartCommandExecution.Debug" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="Vcs.ShowDiffWithLocal">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="XDebugger.MoveWatchDown" />
+</keymap>
