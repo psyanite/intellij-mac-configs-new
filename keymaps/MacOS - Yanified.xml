@@ -96,6 +96,7 @@
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="GotoSymbol" />
+  <action id="GotoTest" />
   <action id="GotoUrlAction" />
   <action id="HippieBackwardCompletion" />
   <action id="Images.Editor.ToggleGrid" />
@@ -129,6 +130,10 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ResourceExplorer.show" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
@@ -143,6 +148,7 @@
   <action id="Scala.TypeInfo">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="ServiceView.ShowServices" />
   <action id="ShowProjectStructureSettings" />
   <action id="ShowRecentTests" />
   <action id="Stop">
