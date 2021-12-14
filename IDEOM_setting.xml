@@ -4,7 +4,10 @@
       <map>
         <entry key="Default">
           <value>
-            <EditorSetting />
+            <EditorSetting>
+              <option name="editorName" value="Default" />
+              <option name="useWallPaper" value="false" />
+            </EditorSetting>
           </value>
         </entry>
       </map>
@@ -33,12 +36,21 @@
         </entry>
         <entry key="Project Open">
           <value>
-            <SoundSetting />
+            <SoundSetting>
+              <option name="eventName" value="Project Open" />
+              <option name="useSound" value="true" />
+              <option name="soundPath" value="$USER_HOME$/Desktop/notifications_11.mp3" />
+            </SoundSetting>
           </value>
         </entry>
         <entry key="Run">
           <value>
-            <SoundSetting />
+            <SoundSetting>
+              <option name="eventName" value="Run" />
+              <option name="useSound" value="true" />
+              <option name="soundPath" value="$USER_HOME$/Desktop/notifications_11.mp3" />
+              <option name="soundVolume" value="1.0" />
+            </SoundSetting>
           </value>
         </entry>
       </map>
