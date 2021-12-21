@@ -39,7 +39,8 @@
             <SoundSetting>
               <option name="eventName" value="Project Open" />
               <option name="useSound" value="true" />
-              <option name="soundPath" value="$USER_HOME$/Desktop/notifications_11.mp3" />
+              <option name="soundPath" value="$USER_HOME$/Desktop/notifications_11.aac" />
+              <option name="soundVolume" value="1.0" />
             </SoundSetting>
           </value>
         </entry>
