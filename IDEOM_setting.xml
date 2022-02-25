@@ -16,17 +16,26 @@
       <map>
         <entry key="Breakpoint">
           <value>
-            <SoundSetting />
+            <SoundSetting>
+              <option name="eventName" value="Breakpoint" />
+            </SoundSetting>
           </value>
         </entry>
         <entry key="Console Filter">
           <value>
-            <SoundSetting />
+            <SoundSetting>
+              <option name="eventName" value="Console Filter" />
+              <option name="soundPath" value="$USER_HOME$/Downloads/pokemon_item.wav" />
+            </SoundSetting>
           </value>
         </entry>
         <entry key="Debug">
           <value>
-            <SoundSetting />
+            <SoundSetting>
+              <option name="eventName" value="Debug" />
+              <option name="useSound" value="true" />
+              <option name="soundPath" value="$USER_HOME$/Downloads/pokemon_item.wav" />
+            </SoundSetting>
           </value>
         </entry>
         <entry key="Project Close">
@@ -48,7 +57,7 @@
             <SoundSetting>
               <option name="eventName" value="Run" />
               <option name="useSound" value="true" />
-              <option name="soundPath" value="$USER_HOME$/Desktop/notifications_11.aac" />
+              <option name="soundPath" value="$USER_HOME$/Downloads/pokemon_item.wav" />
               <option name="soundVolume" value="1.0" />
             </SoundSetting>
           </value>
