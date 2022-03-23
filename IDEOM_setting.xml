@@ -18,6 +18,8 @@
           <value>
             <SoundSetting>
               <option name="eventName" value="Breakpoint" />
+              <option name="useSound" value="true" />
+              <option name="soundPath" value="$USER_HOME$/Documents/meow/pokemon.wav" />
             </SoundSetting>
           </value>
         </entry>
@@ -57,7 +59,7 @@
             <SoundSetting>
               <option name="eventName" value="Run" />
               <option name="useSound" value="true" />
-              <option name="soundPath" value="$USER_HOME$/Downloads/pokemon_item.wav" />
+              <option name="soundPath" value="$USER_HOME$/Documents/meow/pokemon.wav" />
               <option name="soundVolume" value="1.0" />
             </SoundSetting>
           </value>
