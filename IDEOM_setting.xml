@@ -36,7 +36,7 @@
             <SoundSetting>
               <option name="eventName" value="Debug" />
               <option name="useSound" value="true" />
-              <option name="soundPath" value="$USER_HOME$/Downloads/pokemon_item.wav" />
+              <option name="soundPath" value="$USER_HOME$/Documents/meow/pokemon.wav" />
             </SoundSetting>
           </value>
         </entry>
