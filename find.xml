@@ -6,5 +6,6 @@
     <mask>cartcontroller.scala</mask>
     <mask>*.ts*</mask>
     <mask>*.scala</mask>
+    <mask>*.json</mask>
   </component>
 </application>
