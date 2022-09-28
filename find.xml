@@ -7,5 +7,6 @@
     <mask>*.ts*</mask>
     <mask>*.scala</mask>
     <mask>*.json</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
