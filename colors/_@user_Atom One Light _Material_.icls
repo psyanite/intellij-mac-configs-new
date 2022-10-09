@@ -3,7 +3,7 @@
     <property name="created">2021-04-01T14:42:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-04-07T12:11:34</property>
+    <property name="modified">2022-10-10T10:14:00</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <colors>
@@ -27,29 +27,30 @@
     <option name="DOCUMENTATION_COLOR" value="fafafa" />
     <option name="DOC_COMMENT_GUIDE" value="9d9d9f" />
     <option name="DOC_COMMENT_LINK" value="184bc" />
-    <option name="FILESTATUS_ADDED" value="4194d9" />
-    <option name="FILESTATUS_COPIED" value="4194d9" />
-    <option name="FILESTATUS_DELETED" value="4194d9" />
-    <option name="FILESTATUS_HIJACKED" value="a626a4" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="98c379" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
-    <option name="FILESTATUS_MERGED" value="4078f2" />
-    <option name="FILESTATUS_MODIFIED" value="4194d9" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
-    <option name="FILESTATUS_RENAMED" value="a626a4" />
-    <option name="FILESTATUS_SUPPRESSED" value="383a42" />
-    <option name="FILESTATUS_SWITCHED" value="4078f2" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
+    <option name="FILESTATUS_MERGED" value="61aeef" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="c679dd" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="4194d9" />
+    <option name="FILESTATUS_addedOutside" value="56b6c2" />
     <option name="FILESTATUS_changelistConflict" value="ff6347" />
-    <option name="FILESTATUS_modifiedOutside" value="4078f2" />
+    <option name="FILESTATUS_modifiedOutside" value="61aeef" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="e5e5e5" />
     <option name="GUTTER_BACKGROUND" value="fafafa" />
     <option name="INDENT_GUIDE" value="d3d4d5" />
@@ -268,7 +269,6 @@
         <option name="FOREGROUND" value="c18401" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -560,7 +560,7 @@
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="c44ebd" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -654,7 +654,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="e4564a" />
+        <option name="FOREGROUND" value="c44ebd" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3496,8 +3496,6 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
-    <option name="Scala Immutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Scala Mutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Scala Predefined types">
       <value>
         <option name="FOREGROUND" value="383a42" />
