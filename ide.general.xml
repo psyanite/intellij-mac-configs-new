@@ -9,7 +9,7 @@
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="editor.focus.mode.color.light" value="b8b8b9" />
-    <entry key="editor.focus.mode.color.dark" value="b8b8b9" />
+    <entry key="editor.focus.mode.color.light" value="515772" />
+    <entry key="editor.focus.mode.color.dark" value="515772" />
   </component>
 </application>
