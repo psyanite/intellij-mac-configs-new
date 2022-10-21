@@ -7,9 +7,9 @@
     <mask>*.ts*</mask>
     <mask>*.scala</mask>
     <mask>*.json</mask>
-    <mask>*.yaml</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*.groovy</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
