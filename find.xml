@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>cartcontroller.scala</mask>
-    <mask>*.ts*</mask>
     <mask>*.scala</mask>
     <mask>*.yml</mask>
     <mask>*.groovy</mask>
@@ -12,5 +11,6 @@
     <mask>*.bpmn</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*.ts*</mask>
   </component>
 </application>
