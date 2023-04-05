@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.test.*" />
     <mask>cartcontroller.scala</mask>
     <mask>*.scala</mask>
     <mask>*.yml</mask>
@@ -11,12 +12,12 @@
     <mask>*.bpmn</mask>
     <mask>*.json</mask>
     <mask>*.ts*</mask>
-    <mask>*.test.*</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.test.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.test*</mask>
     <mask>*.test.ts</mask>
+    <mask>*.test.*</mask>
   </component>
 </application>
