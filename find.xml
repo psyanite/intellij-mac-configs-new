@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="o" />
     <mask>cartcontroller.scala</mask>
     <mask>*.scala</mask>
     <mask>*.yml</mask>
@@ -18,5 +19,6 @@
     <mask>*.tsx</mask>
     <mask>*.test.*</mask>
     <mask>*.ts*</mask>
+    <mask>o</mask>
   </component>
 </application>
