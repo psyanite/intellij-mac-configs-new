@@ -15,10 +15,10 @@
     <mask>*.tsx</mask>
     <mask>*.test.*</mask>
     <mask>o</mask>
-    <mask>package.json</mask>
     <mask>*.bpmn</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.ts*</mask>
+    <mask>package.json</mask>
   </component>
 </application>
