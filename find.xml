@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*mapper.java" />
     <mask>cartcontroller.scala</mask>
     <mask>*.scala</mask>
     <mask>*.yml</mask>
@@ -22,5 +22,6 @@
     <mask>*.bpmn</mask>
     <mask>*delegate.java</mask>
     <mask>*.java</mask>
+    <mask>*mapper.java</mask>
   </component>
 </application>
