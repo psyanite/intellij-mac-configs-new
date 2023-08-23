@@ -21,7 +21,7 @@
     <mask>*delegate.java</mask>
     <mask>*mapper.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
