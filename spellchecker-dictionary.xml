@@ -12,6 +12,7 @@
       <w>evals</w>
       <w>intpas</w>
       <w>jsonrpc</w>
+      <w>keypas</w>
       <w>namematch</w>
       <w>npcs</w>
       <w>onmicrosoft</w>
@@ -20,9 +21,11 @@
       <w>pois</w>
       <w>poslog</w>
       <w>poslogs</w>
+      <w>prfage</w>
       <w>shortdate</w>
       <w>sssz</w>
       <w>stokens</w>
+      <w>tertid</w>
       <w>tokenise</w>
       <w>tokenised</w>
       <w>verificationid</w>
