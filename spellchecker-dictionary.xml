@@ -26,6 +26,7 @@
       <w>dvacrd</w>
       <w>elec</w>
       <w>evals</w>
+      <w>failexpiry</w>
       <w>fgdriv</w>
       <w>fincrd</w>
       <w>gvauid</w>
@@ -44,6 +45,7 @@
       <w>opid</w>
       <w>photosheets</w>
       <w>pois</w>
+      <w>pollexpiry</w>
       <w>poslog</w>
       <w>poslogs</w>
       <w>prfage</w>
