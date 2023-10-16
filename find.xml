@@ -15,7 +15,6 @@
     <mask>*.json</mask>
     <mask>*.ts*</mask>
     <mask>package.json</mask>
-    <mask>*.bpmn</mask>
     <mask>*delegate.java</mask>
     <mask>*mapper.java</mask>
     <mask>*.gradle</mask>
@@ -23,5 +22,6 @@
     <mask>*.yaml</mask>
     <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.bpmn</mask>
   </component>
 </application>
