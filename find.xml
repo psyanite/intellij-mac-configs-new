@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '…/api/workflow-engine-api/src/main/java/au/com/auspost/tsp/workflow/dto/digitalId/evidence [tsp.api.workflow-engine-api.main]'" />
+    <option name="defaultScopeName" value="Directory '…/api/workflow-engine-api/src/main/java/au/com/auspost/tsp/workflow/dto/digitalId/evidence [tsp.api.workflow-engine-api.main]'" />
+    <option name="SEARCH_SCOPE" value="Directory '…/api/workflow-engine-api/src/main/java/au/com/auspost/tsp/workflow/dto/digitalId/evidence [tsp.api.workflow-engine-api.main]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>cartcontroller.scala</mask>
     <mask>*.scala</mask>
