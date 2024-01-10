@@ -1,9 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>cartcontroller.scala</mask>
     <mask>*.scala</mask>
     <mask>*.ts</mask>
@@ -18,7 +22,6 @@
     <mask>*.groovy</mask>
     <mask>*.bpmn</mask>
     <mask>*.ts*</mask>
-    <mask>*.tsx</mask>
     <mask>swagger*</mask>
     <mask>package.json</mask>
     <mask>*.yml</mask>
@@ -28,5 +31,6 @@
     <mask>*.yaml</mask>
     <mask>*.sql</mask>
     <mask>*.json</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
