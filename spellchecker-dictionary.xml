@@ -51,6 +51,7 @@
       <w>pollexpiry</w>
       <w>poslog</w>
       <w>poslogs</w>
+      <w>presigned</w>
       <w>prfage</w>
       <w>purga</w>
       <w>reqd</w>
@@ -62,6 +63,7 @@
       <w>sssz</w>
       <w>statdc</w>
       <w>stokens</w>
+      <w>tablename</w>
       <w>taxasm</w>
       <w>tert</w>
       <w>tertid</w>
